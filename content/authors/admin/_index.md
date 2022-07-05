@@ -57,7 +57,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/cv.pdf
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +68,4 @@ highlight_name: false
 
 Currently, I am consultant and educator on varied subjects in research administration. In 2020 I retired as the Chief Grants Management Officer of the National Institute of Mental Health, where I was responsible for the oversight of fiscal and administrative activities of the Institute's \$1.6 billion grant and cooperative agreement portfolio. Prior to coming to the NIH in 2001, I spent 19 years an as central and departmental research administrator at the University of Kansas, the University of Iowa, and the University of Pittsburgh. I have received numerous awards and am recognized as an accomplished educator on topics across the research administration spectrum from both the sponsor and recipient perspectives.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
