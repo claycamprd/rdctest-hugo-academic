@@ -1,4 +1,5 @@
-# Rebecca' web site repository. Website built using the 
+# Rebecca's web site repository. 
+## Website built using the ...  
 
 ## [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
